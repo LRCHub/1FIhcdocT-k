@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Koikaze ni nosete",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-03-21T09:27:45.964693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋風邪にのせて - Koikaze ni nosete",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_恋風邪にのせて_-_Koikaze_ni_nosete_Vaundy.lrc"
+    }
+  ]
+}
