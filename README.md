@@ -1,4 +1,4 @@
-# Vaundy – Koikaze ni nosete
+# Vaundy – 恋風邪にのせて
 
 > **歌詞登録ステータス：同期歌詞あり**
 
