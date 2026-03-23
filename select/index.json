@@ -1,16 +1,58 @@
 {
   "version": 1,
-  "base_track": "Koikaze ni nosete",
+  "base_track": "恋風邪にのせて",
   "base_artist": "Vaundy",
-  "createdAt": "2026-03-21T09:27:45.964693Z",
+  "createdAt": "2026-03-23T04:55:28.605026Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
+      "title": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_恋風邪にのせて_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
       "title": "恋風邪にのせて - Koikaze ni nosete",
       "artist": "Vaundy",
       "has_synced": true,
-      "path": "select/01_恋風邪にのせて_-_Koikaze_ni_nosete_Vaundy.lrc"
+      "path": "select/02_恋風邪にのせて_-_Koikaze_ni_nosete_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_恋風邪にのせて_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_恋風邪にのせて_Vaundy.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/localdb_01_恋風邪にのせて_Vaundy.lrc",
+      "repo_name": "1FIhcdocT-k"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/localdb_02_恋風邪にのせて_Vaundy.lrc",
+      "repo_name": "KwqzixPGDtg"
     }
   ]
 }
